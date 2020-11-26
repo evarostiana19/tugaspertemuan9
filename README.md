@@ -2,7 +2,7 @@
 ## Tugas Melengkapi Praktikum 9
 | Nama | kelas | Nim | Matkul |
 | -- | --- | ---- | ----------- |
-| FARA DEVIANA | TI.20.A2 | 312010407 | Bahasa Pemrograman |
+| EVA ROSTIANA | TI.20.A2 | 312010296 | Bahasa Pemrograman |
 ## Daftar Isi
 | No | ISI | PENJELASAN | 
 | -- | --- | ---------- | 
@@ -118,7 +118,7 @@ for item in nilai:
 print("==================================================================")
 ```
 Berikut hasil dari program data mahasiswa 
-![gambar output](isi%20foto/hasilpraktikum4.png)
+![gambar output](isi%20foto/hasilpraktikumm4.png)
 
 
 
